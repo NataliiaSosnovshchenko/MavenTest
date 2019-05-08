@@ -9,7 +9,7 @@ public class FirstTest
     {
         System.setProperty("webdriver.chrome.driver", "G:\\MyF\\SoftServe\\drivers\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
-        driver.get("https://demo.opencart.com/");
+        //driver.get("https://demo.opencart.com/");
     }
 
 }
